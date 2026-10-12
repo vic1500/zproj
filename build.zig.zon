@@ -1,0 +1,7 @@
+.{
+    .name = .zproj,
+    .version = "0.1.0",
+    .minimum_zig_version = "0.16.0",
+    .paths = .{""},
+    .fingerprint = 0x608ecff4884373a,
+}
